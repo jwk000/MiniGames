@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "MiniGames\Tetris\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "war3llk", "MiniGames\war3llk\war3llk.csproj", "{7C44BF92-E7BA-4143-9989-1C08FE15BD73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048", "2048\2048.csproj", "{6A33AC1C-02F3-4F00-893C-54DF6F07725A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C44BF92-E7BA-4143-9989-1C08FE15BD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C44BF92-E7BA-4143-9989-1C08FE15BD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C44BF92-E7BA-4143-9989-1C08FE15BD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A33AC1C-02F3-4F00-893C-54DF6F07725A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A33AC1C-02F3-4F00-893C-54DF6F07725A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A33AC1C-02F3-4F00-893C-54DF6F07725A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A33AC1C-02F3-4F00-893C-54DF6F07725A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
